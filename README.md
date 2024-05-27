@@ -14,6 +14,7 @@ Revisions
 MAPIsoftware 4.0
 - Bug fixes.
 - Improvement: the number of ROI is no more limited.
+- Adding the possibility to enter the coordinates of circles ROI.
 
 MAPIsoftware 4.1
 - Improvement of the importation of the sdt file (the compressed sdt files can now be opened).
