@@ -20,4 +20,5 @@ MAPIsoftware 4.1
 - Adding the possibility to display the g and s images.
 
 MAPIsoftware 4.2
--
+- Adding an option for Machine learning (K-means and Gaussian Mixture) segmentation of the phasor image.
+- Adding an automatic treshold.
