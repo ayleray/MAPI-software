@@ -11,8 +11,9 @@ Installation
 Revisions
 ---------
 
-2024.4.24
+MAPIsoftware 4.0
+- Bug fixes.
+- Improvement: the number of ROI is no more limited.
 
-- Support NumPy 2.
-
-2023.9.28
+MAPIsoftware 4.1
+-
