@@ -16,7 +16,7 @@ MAPIsoftware 4.0
 - Improvement: the number of ROI is no more limited.
 
 MAPIsoftware 4.1
--Improvement of the importation of the sdt file (the compressed sdt files can now be opened).
+- Improvement of the importation of the sdt file (the compressed sdt files can now be opened).
 - Adding the possibility to display the g and s images.
 
 MAPIsoftware 4.2
