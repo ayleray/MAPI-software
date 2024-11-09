@@ -24,3 +24,8 @@ MAPIsoftware 4.1
 MAPIsoftware 4.2
 - Adding an option for Machine learning (K-means and Gaussian Mixture) segmentation of the phasor image.
 - Adding an automatic treshold.
+
+MAPIsoftware 4.3
+- Adding an option for fitting.
+- Correcting bugs.
+- Adding an executable for Apple Silicon chips
