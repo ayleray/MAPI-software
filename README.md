@@ -7,7 +7,7 @@ Installation
 
    https://fr.mathworks.com/products/compiler/matlab-runtime.html
 
-3) Launch the MAPIsoftawre executable.
+2) Launch the MAPIsoftawre executable.
 
 
 Revisions
