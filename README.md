@@ -29,4 +29,9 @@ MAPIsoftware 4.2
 MAPIsoftware 4.3
 - Adding an option for fitting.
 - Correcting bugs.
-- Adding an executable for Apple Silicon chips
+- Adding an executable for Apple Silicon chips.
+
+MAPIsoftware 4.4
+- Adding an option for opening time lapse.
+- Correcting bugs.
+- Adding some color tables.
