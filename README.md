@@ -33,5 +33,7 @@ MAPIsoftware 4.3
 
 MAPIsoftware 4.4
 - Adding an option for opening time lapse.
+- Adding an option for displaying lifetimes on phasor.
+- Improving the batch process.
 - Correcting bugs.
 - Adding some color tables.
