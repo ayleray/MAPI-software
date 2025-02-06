@@ -22,7 +22,7 @@ For MacOS
 
    b) For MacOS with Apple silicon, you need to write in the terminal:
 
-   xattr -d com.apple.quarantine MAPIsoftware_App.app
+      xattr -d com.apple.quarantine MAPIsoftware_App.app
 
 
 Revisions
