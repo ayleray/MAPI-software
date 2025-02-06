@@ -20,7 +20,7 @@ For MacOS
 
 3) a) For MacOS with Intel chip, launch the MAPIsoftware executable.
 
-   b) For MacOS with Arm chip, you need to write in the terminal:
+   b) For MacOS with Apple silicon, you need to write in the terminal:
 
    xattr -d com.apple.quarantine MAPIsoftware_App.app
 
