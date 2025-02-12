@@ -1,13 +1,28 @@
 Installation
 ------------
 
-1) For Windows, install first the MATLAB Runtime R2023b (version 23.2).
-   
-   For MacOS, install first the Matlab Runtime R2024b (version 24.2) that can be find here:
+For Windows:
+
+1) install first the MATLAB Runtime R2023b (version 23.2) that can be find here:
 
    https://fr.mathworks.com/products/compiler/matlab-runtime.html
 
 2) Launch the MAPIsoftware executable.
+
+
+For MacOS
+
+1) install first the Matlab Runtime R2024b (version 24.2) that can be find here:
+
+   https://fr.mathworks.com/products/compiler/matlab-runtime.html
+
+2) extract the zip file.
+
+3) a) For MacOS with Intel chip, launch the MAPIsoftware executable.
+
+   b) For MacOS with Apple silicon, you need to write in the terminal:
+
+      xattr -d com.apple.quarantine MAPIsoftware_App.app
 
 
 Revisions
